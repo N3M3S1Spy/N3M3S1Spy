@@ -5,7 +5,7 @@
 ---
 
 ## 🛠 About Me
-Hey, ich bin Nemesis, ein Cybersecurity-Enthusiast mit Fokus auf Ethical Hacking, CTFs und Reverse Engineering. Ich interessiere mich besonders für Exploit-Entwicklung, Crypter und Sicherheitsanalysen. Neben meiner Leidenschaft für IT-Security arbeite ich an verschiedenen Projekten im Bereich Penetration Testing, Malware-Analyse und Software-Entwicklung.
+Hey, I'm Nemesis, a cybersecurity researcher specializing in ethical hacking, CTFs, and reverse engineering. I'm particularly interested in exploit development, crypters, and security analysis. Besides my passion for IT security, I work on various projects in penetration testing, malware analysis, and software development.
 
 ---
 

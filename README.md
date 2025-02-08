@@ -26,4 +26,4 @@ Hey, I'm Nemesis, a cybersecurity researcher specializing in ethical hacking, CT
 ---
 
 ## 📫 Get in Touch
-- 🐙 GitHub: [Nemesis](https://github.com/n3m3s1spy)
+- 🔹 Discord: [Nemesis](https://discord.gg/n3m3s1spy)

@@ -15,3 +15,15 @@ Hey, I'm Nemesis, a cybersecurity researcher specializing in ethical hacking, CT
 - 🎯 **CTFs & Security Training:** Fokus auf Forensics, Exploitation & Privilege Escalation
 - 🖥️ **OS & Environments:** Windows, Linux (Kali, Ubuntu), VirtualBox
 - 🚀 **Projects:** Custom Crypter, Payload Delivery Systems, Cybersecurity Write-Ups
+
+---
+
+## 📂 Current Projects
+- 🔹 **Copysystem** – Developing an efficient file transfer system
+- 🔹 **StartupForensics** – Collection of write-ups and tutorials on cybersecurity topics
+- 🔹 **CTF Challenges** – Creating security labs and challenges
+
+---
+
+## 📫 Get in Touch
+- 🐙 GitHub: [Nemesis](https://github.com/n3m3s1spy)

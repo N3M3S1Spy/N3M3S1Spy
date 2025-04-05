@@ -20,10 +20,4 @@ Hey, I'm Nemesis, a cybersecurity researcher specializing in ethical hacking, CT
 
 ## 📂 Current Projects
 - 🔹 **Copysystem** – Developing an efficient file transfer system
-- 🔹 **StartupForensics** – Collection of write-ups and tutorials on cybersecurity topics
 - 🔹 **CTF Challenges** – Creating security labs and challenges
-
----
-
-## 📫 Get in Touch
-- 🔹 Discord: [Nemesis](https://discord.gg/736695023160131646)

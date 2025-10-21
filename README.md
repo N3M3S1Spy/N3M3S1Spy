@@ -23,7 +23,7 @@
 
 <section>
   <h2>About</h2>
-  <p>Hey, I'm Nemesis, a cybersecurity researcher specializing in ethical hacking, CTFs, and reverse engineering. I'm particularly interested in exploit development, crypters, and security analysis. Besides my passion for IT security, I work on various projects in penetration testing, malware analysis, and software development.</p>
+  <p>Hey, I'm Magnus Peter aka N3M3S1Spy, a cybersecurity researcher specializing in ethical hacking, CTFs, and reverse engineering. I'm particularly interested in exploit development, crypters, and security analysis. Besides my passion for IT security, I work on various projects in penetration testing, malware analysis, and software development.</p>
 </section>
 
 <section>
@@ -34,4 +34,19 @@
     <li><strong>Environments:</strong> Windows, Linux (Kali, Ubuntu), VirtualBox</li>
     <li><strong>Projekte:</strong> InjectionLab, Copysystem, CTF Challenges & Writeups</li>
   </ul>
+</section>
+
+<hr>
+
+<section>
+  <h2>Certifications</h2>
+  <li><a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-XPF1LU5PSJ.pdf"><strong>Introduction to Cyber Security Learning Path</strong></a></li>
+  <li><a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-M3CUNLKY1M.pdf"><strong>Pre Security Learning Path</strong></a></li>
+  <li><a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-7Z3W5GYUAB.pdf"><strong>Complete Beginner Learning Path</strong></a></li>
+  <li><a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-WLKXIVAPOO.pdf"><strong>Jr Penetration Tester Learning Path</strong></a></li>
+  <li><a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-9LAYISWUVN.pdf"><strong>CompTIA Pentest+ Learning Path</strong></a></li>
+  <li><a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-ID6E5BYC3D.pdf"><strong>Web Fundamentals Learning Path</strong></a></li>
+  <li><a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-DTJAV97DVU.pdf"><strong>SOC Level 1 Learning Path</strong></a></li>
+  <li><a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-S7429QDV2A.pdf"><strong>Cyber Defense Learning Path</strong></a></li>
+  <li><a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-97VDNJI5VZ.pdf"><strong>Cyber Security 101 Learning Path</strong></a></li>  
 </section>

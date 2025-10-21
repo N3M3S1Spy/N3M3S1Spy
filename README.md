@@ -22,3 +22,8 @@ Hey, I'm Nemesis, a cybersecurity researcher specializing in ethical hacking, CT
 -  **InjectionLab** – Educational Code Injection Toolkit
 -  **Copysystem** – Developing an efficient file transfer system
 -  **CTF Challenges** – Creating security labs and challenges
+
+---
+
+## Badges
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2602315" style='border:none;'></iframe>

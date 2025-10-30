@@ -16,7 +16,10 @@
     <img src="https://img.shields.io/badge/license-MIT-lightgrey" alt="License">
     <br>
     <img src="https://tryhackme-badges.s3.amazonaws.com/N3M3S1Spy.png" alt="Your Image Badge" />
+    <img src="https://raw.githubusercontent.com/Saganaki22/Saganaki22/output/snake.svg" alt="Snake animation" />
   </p>
+  
+
 </div>
 
 <hr>
@@ -50,3 +53,4 @@
   <li><a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-S7429QDV2A.pdf"><strong>Cyber Defense Learning Path</strong></a></li>
   <li><a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-97VDNJI5VZ.pdf"><strong>Cyber Security 101 Learning Path</strong></a></li>  
 </section>
+

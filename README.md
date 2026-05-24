@@ -62,8 +62,8 @@
     If you like my work, you can buy me a coffee:
   </p>
   <ul>
-  <li>XMR (Monero): 83mKX5xZm64H2MXdMY5nKPBKT45ku5SgaYg5axC864pbRyv2GtFVcVwjjKe5csd27MaUJZPnZJMQk1ozx8HsW9beMUDBY9p</li>
-  <li>LTC (Litecoin): </li>
+  <li>XMR: 83mKX5xZm64H2MXdMY5nKPBKT45ku5SgaYg5axC864pbRyv2GtFVcVwjjKe5csd27MaUJZPnZJMQk1ozx8HsW9beMUDBY9p</li>
+  <li>LTC: ltc1qa9hqu075a8akknp6es4z6w44uvxhpcwlkgge6x </li>
 </ul>
 </section>
 

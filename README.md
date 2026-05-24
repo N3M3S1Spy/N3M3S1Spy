@@ -56,3 +56,14 @@
   <li><a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-97VDNJI5VZ.pdf"><strong>Cyber Security 101 Learning Path</strong></a></li>  
 </section>
 
+<section>
+  <h2>Support</h2>
+  <p>
+    If you like my work, you can buy me a coffee:
+  </p>
+  <ul>
+  <li>XMR (Monero): 83mKX5xZm64H2MXdMY5nKPBKT45ku5SgaYg5axC864pbRyv2GtFVcVwjjKe5csd27MaUJZPnZJMQk1ozx8HsW9beMUDBY9p</li>
+  <li>LTC (Litecoin): </li>
+</ul>
+</section>
+
